@@ -2,5 +2,9 @@
   {
     "slug": "sample-app",
     "name": "Sample App"
+  },
+  {
+    "slug": "evrent",
+    "name": "Evrent"
   }
 ]
